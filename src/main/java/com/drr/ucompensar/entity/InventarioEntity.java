@@ -26,14 +26,14 @@ public class InventarioEntity implements Serializable {
 	private static final long serialVersionUID = 1L;
 	
 	@Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
 	@Column(name="id_inven")
     private Long id;
 	
 	private Integer cantidad;
 
     @OneToOne
-    @JoinColumn(name = "id")
+    @JoinColumn(name = "id_prod")
     private ProductoEntity producto;
 
 }

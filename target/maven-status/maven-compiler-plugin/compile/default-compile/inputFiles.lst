@@ -1,6 +1,13 @@
 C:\Users\david\workspace-u\chickgirl-repository\src\main\java\com\drr\ucompensar\core\GenericRepository.java
 C:\Users\david\workspace-u\chickgirl-repository\src\main\java\com\drr\ucompensar\core\impl\GenericRepositoryImpl.java
 C:\Users\david\workspace-u\chickgirl-repository\src\main\java\com\drr\ucompensar\core\JpaUtil.java
-C:\Users\david\workspace-u\chickgirl-repository\src\main\java\com\drr\ucompensar\usuario\model\entity\UsuarioEntity.java
-C:\Users\david\workspace-u\chickgirl-repository\src\main\java\com\drr\ucompensar\usuario\repository\UsuarioRepository.java
-C:\Users\david\workspace-u\chickgirl-repository\src\main\java\com\drr\ucompensar\usuario\repository\UsuarioRepositoryImpl.java
+C:\Users\david\workspace-u\chickgirl-repository\src\main\java\com\drr\ucompensar\entity\ClienteEntity.java
+C:\Users\david\workspace-u\chickgirl-repository\src\main\java\com\drr\ucompensar\entity\DetalleFacturaEntity.java
+C:\Users\david\workspace-u\chickgirl-repository\src\main\java\com\drr\ucompensar\entity\FacturaEntity.java
+C:\Users\david\workspace-u\chickgirl-repository\src\main\java\com\drr\ucompensar\entity\InventarioEntity.java
+C:\Users\david\workspace-u\chickgirl-repository\src\main\java\com\drr\ucompensar\entity\ProductoEntity.java
+C:\Users\david\workspace-u\chickgirl-repository\src\main\java\com\drr\ucompensar\entity\UsuarioEntity.java
+C:\Users\david\workspace-u\chickgirl-repository\src\main\java\com\drr\ucompensar\repository\impl\ProductoRepositoryImpl.java
+C:\Users\david\workspace-u\chickgirl-repository\src\main\java\com\drr\ucompensar\repository\impl\UsuarioRepositoryImpl.java
+C:\Users\david\workspace-u\chickgirl-repository\src\main\java\com\drr\ucompensar\repository\ProductoRepository.java
+C:\Users\david\workspace-u\chickgirl-repository\src\main\java\com\drr\ucompensar\repository\UsuarioRepository.java
